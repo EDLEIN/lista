@@ -25,7 +25,7 @@ O objetivo deste projeto é praticar manipulação do DOM com JavaScript puro e 
 - ❌ Excluir tarefa da lista
 - 💾 Salvar tarefas no `localStorage` (mesmo após fechar a página)
 
-  📦 Resumo Visual das Funções
+## 📦 Resumo Visual das Funções
 Ação	Função	O que faz?
 Mostrar tarefas	renderizarTarefas	Exibe a lista e atualiza o localStorage
 Adicionar tarefa	adicionarTarefa	Adiciona novo item à lista
